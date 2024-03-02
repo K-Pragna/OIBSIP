@@ -12,5 +12,5 @@ Level 1 consists of three projects that helped me gain a foundational understand
    - Description: A landing page for Netflix.
    - Technologies Used: HTML, CSS, JavaScript
    - Deployment: The page is deployed on Github Pages at [Netflix Landing Page](https://k-pragna.github.io/Netflixlandingpage/NETFLIX%20LANDING%20PAGE/index.html)
-   - Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/K-Pragna/Netflixlandingpage).
+   - Repository: The project's GitHub repository can be found at [GitHub Repository](https://github.com/K-Pragna/OIBSIP/tree/main/LEVEL%201/Task%201).
    
