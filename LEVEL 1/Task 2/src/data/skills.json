@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python(Basic)",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Singing",
+    "imageSrc": "skills/singing.png"
+  },
+  {
+    "title": "Painting",
+    "imageSrc": "skills/painting.png"
+  },
+  {
+    "title": "Content Writing",
+    "imageSrc": "skills/contentwriting.png"
+  }
+]

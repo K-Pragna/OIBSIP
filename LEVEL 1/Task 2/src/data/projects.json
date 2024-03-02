@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Netflix Landing Page",
+    "imageSrc": "projects/project1.png",
+    "description": "A landing page for Netflix, built using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://k-pragna.github.io/Netflixlandingpage/NETFLIX%20LANDING%20PAGE/index.html",
+    "source": "https://github.com/K-Pragna/Netflixlandingpage"
+  },
+  {
+    "title": "Login Authentication",
+    "imageSrc": "projects/project2.png",
+    "description": "A full-stack authentication application that will implement Login, Registration, and Logout functionalities.",
+    "skills": ["React", "Express", "Node.js", "MongoDB"],
+    "demo": "https://github.com/K-Pragna/Login-Authentication/assets/158297257/64d3670f-08ae-452c-a93b-683b78c4de6d",
+    "source": "https://github.com/K-Pragna/Login-Authentication"
+  },
+  {
+    "title": "ToDo WebApp",
+    "imageSrc": "projects/project3.png",
+    "description": "A Website designed for enabling users to input, remove, and monitor their to-do list items.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://k-pragna.github.io/ToDo-WebApp/ToDo-WebApp/index.html",
+    "source": "https://github.com/K-Pragna/ToDo-WebApp"
+  },
+  {
+    "title": "Calculator WebApp",
+    "imageSrc": "projects/project4.png",
+    "description": "Simple Calculator with swipeable Light and Dark theme.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://k-pragna.github.io/Calculator/Calculator/index.html",
+    "source": "https://github.com/K-Pragna/Calculator"
+  },
+
+  {
+    "title": "Tribute-Page",
+    "imageSrc": "projects/project6.png",
+    "description": "A humble homage to the legendary SPB garu, capturing merely a fraction of his remarkable accomplishments.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://k-pragna.github.io/Tribute-Page/Tribute%20Page/index.html",
+    "source": "https://github.com/K-Pragna/Tribute-Page"
+  },
+  {
+    "title": "Temperature Covertor",
+    "imageSrc": "projects/project5.png",
+    "description": "The website convert's Celsius temperature measurements into either Fahrenheit or Kelvin scales.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://k-pragna.github.io/Temperature-Convertor/Temperature%20Convertor/index.html",
+    "source": "https://github.com/K-Pragna/Temperature-Convertor"
+  }
+]

@@ -1,0 +1,26 @@
+.home-container {
+  background-image: url('../src/assets/img1.jpg'); /* Replace 'path/to/your/image.jpg' with your image file path */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; 
+  justify-content: flex-start; 
+  align-items: center;
+  padding-top: 100px; 
+  position: relative;
+  color: white;
+}
+
+.btn-success {
+  background-color: green;
+  color: white;
+  border-color: green;
+}
+
+.btn-container {
+    position: absolute; 
+    top: 40%; 
+ 
+}
+

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Bachelor of Technology",
+    "organisation": "CSE (Data Science)",
+    "startDate": "2022",
+    "endDate": "Expected in 2025",
+    "experiences": ["Visakhapatnam, AP", "Gayatri Vidya Paishad (A)", "7.67 cgpa (till now)"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Diploma",
+    "organisation": "Computer Engineering",
+    "startDate": "2020",
+    "endDate": "2022",
+    "experiences": ["Ghatkesar, TS", "Samskruti College of Engineering", "8.65 cgpa"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "High School Diploma",
+    "organisation": "CBSE",
+    "startDate": "2019",
+    "endDate": "2020",
+    "experiences": [
+      "Secunderabad, TS",
+      "Bhavans Shri Rama Krishna Vidyalaya",
+      "7.96%"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

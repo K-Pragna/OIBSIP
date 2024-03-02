@@ -1,0 +1,186 @@
+body {
+  padding: 50px;
+  margin: 0;
+}
+
+.container {
+  padding: 50px;
+  text-align: center;
+  background-color: rgb(245, 243, 243);
+}
+
+.header-container h1 {
+  font-family: "Acme", sans-serif;
+  color: rgb(26, 19, 46);
+}
+
+.header-container h4,
+h5 {
+  font-family: sans-serif;
+  color: rgb(47, 42, 59);
+}
+.header-container h5 {
+  color: rgb(55, 51, 65);
+  padding-bottom: 50px;
+}
+
+#profile-image {
+  height: 50%;
+  width: 60%;
+  padding: 0px 30px 10px 30px;
+}
+
+.info-container {
+  text-align: left;
+}
+
+.about {
+  font-family: sans-serif;
+  color: rgb(43, 30, 75);
+  line-height: 25px;
+  font-size: 17px;
+  word-wrap: normal;
+}
+
+blockquote {
+  padding: 10px 20px;
+  margin: 30px 0 10px;
+  font-size: 17.5px;
+  border-left: 5px solid rgb(175, 166, 166);
+  
+}
+
+.music-list {
+  padding-top: 50px;
+}
+
+.sub-head-title {
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+  color: rgb(47, 42, 59);
+  padding-top: 20px;
+  
+}
+
+.list-container {
+  text-align: left;
+  font-family: sans-serif;
+  color: rgb(43, 30, 75);
+  line-height: 35px;
+}
+
+
+.ref-links {
+  text-align: left;
+  font-family: sans-serif;
+  color: rgb(43, 30, 75);
+}
+.more-list a{
+  text-decoration: none;
+  color: rgb(43, 30, 75);
+  
+}
+
+.more-list a:hover {
+  color: rgb(61, 75, 153);
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 25px;
+  }
+  .container {
+    padding: 25px;
+  }
+  #profile-image {
+    height: 350px;
+    width: 90%;
+    text-align: center;
+    padding-top: 20px;
+  }
+  .header-container h1 {
+    font-size: 30px;
+  }
+  .header-container h4, h5 {
+    font-size: 18px;
+  }
+  .header-container h5 {
+    margin-bottom: -10px;
+  }
+  .about, blockquote {
+    font-size: 20px;
+  }
+  .sub-head-title {
+    font-size: 30px;
+  }
+  ul {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 450px) {
+  body {
+    padding: 10px;
+  }
+  .container {
+    padding: 15px;
+  }
+  #profile-image {
+    height: 270px;
+    max-width: 85%;
+    text-align: center;
+    padding-top: 20px;
+  }
+  .header-container h1 {
+    font-size: 28px;
+  }
+  .header-container h4, h5 {
+    font-size: 18px;
+  }
+  .header-container h5 {
+    margin-bottom: -10px;
+  }
+  .about, blockquote {
+    font-size: 18px;
+    text-align: justify;
+  }
+  .sub-head-title {
+    font-size: 28px;
+  }
+  ul {
+    font-size: 18px;
+    padding-left: 15px;
+  }
+  ::marker {
+    padding-left: 30px;
+  }
+}
+@media (max-width: 400px) {
+  .container {
+    margin-bottom: 30px;
+  }
+  .header-container h1 {
+    font-size: 24px;
+  }
+  .header-container h4, h5 {
+    font-size: 14px;
+  }
+  .about, blockquote {
+    font-size: 17px;
+    text-align: justify;
+  }
+  .sub-head-title {
+    font-size: 23px;
+  }
+  ul {
+    font-size: 15px;
+  }
+  .more-list, .more-list a{
+    color: rgb(66, 58, 92);
+  }
+  .ref-links .sub-head-title {
+  color: rgb(72, 63, 94);
+
+  }
+}
