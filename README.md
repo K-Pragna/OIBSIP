@@ -32,7 +32,7 @@ Level 1 consists of three projects that helped me gain a foundational understand
 
 
 3. Task 3 - Temperature Convertor Website
-   - Decription: The website convert's Celsius temperature measurements into either Fahrenheit or Kelvin scales.
+   - Decription: The website allows user to give input(Fahrenheit, Kelvin) and convert's it into Celsius.
    - Technologies Used: HTML, CSS, JavaScript
    - Deployment: The page is deployed on GitHub Pages at [Temperature Convertor](https://k-pragna.github.io/Temperature-Convertor/Temperature%20Convertor/index.html)
    - Repository: The project's GitHub repository can be found at [GitHub Repoitory](https://github.com/K-Pragna/OIBSIP/tree/main/LEVEL%201/Task%203)
